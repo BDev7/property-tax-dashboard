@@ -145,7 +145,7 @@ npm run dev
 
 # 👨‍💻 Author
 
-### Lakshay Srivastava
+### Brahm Dev
 
 Built as part of the **NUDM UPYOG Internship Assessment** 🚀
 
